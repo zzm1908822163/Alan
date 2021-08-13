@@ -18,5 +18,6 @@ host,www.googleapis.com,Google Voice
 host-suffix,lens.l.google.com,Google Voice
 host-suffix,voice.telephony.goog,Google Voice
 
+HOST,www.googleadservices.com,Google
 HOST,accounts.google.com,Google
 HOST-KEYWORD,google.com,Google
