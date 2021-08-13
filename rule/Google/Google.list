@@ -1,7 +1,5 @@
 # Google Gmail
-HOST,pop.gmail.com,Google
-HOST,imap.gmail.com,Google
-HOST,smtp.gmail.com,Google
+HOST-KEYWORD,gmail.com,Google
 
 # Google Driver
 HOST-SUFFIX,docs.google.com,GoogleDrive
