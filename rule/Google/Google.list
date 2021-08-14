@@ -6,15 +6,13 @@ HOST-SUFFIX,docs.google.com,GoogleDrive
 HOST-SUFFIX,drive.google.com,GoogleDrive
 HOST-SUFFIX,googledrive.com,GoogleDrive
 HOST-SUFFIX,googleusercontent.com,GoogleDrive
-HOST,www.googleapis.com,GoogleDrive
+HOST-SUFFIX,googleapis.com,GoogleDrive
 
 # > Google Search
 HOST-KEYWORD,www.google.,GoogleSearch
 
 # Google Voice
-host,play.googleapis.com,Google Voice
 host,oauthaccountmanager.googleapis.com,Google Voice
-host,www.googleapis.com,Google Voice
 host-suffix,lens.l.google.com,Google Voice
 host-suffix,voice.telephony.goog,Google Voice
 
