@@ -1,10 +1,5 @@
 # App Store
-HOST,ads.mopub.com,App Store
-HOST,ocsp.apple.com,App Store
-HOST,xp.apple.com,App Store
-HOST-SUFFIX,.mzstatic.com,App Store
 HOST-SUFFIX,apps.apple.com,App Store
 HOST-SUFFIX,itunes.apple.com,App Store
 HOST-SUFFIX,mzstatic.com,App Store
-HOST-KEYWORD,AppStore,AppStore
-USER-AGENT,AppStore*,App Store
+USER-AGENT,AppStore,App Store
