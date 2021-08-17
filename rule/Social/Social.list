@@ -1,0 +1,29 @@
+
+#  Facebook
+host-suffix,fb.com,Facebook
+host-suffix,fb.me,Facebook
+host-suffix,fbworkmail.com,Facebook
+host-suffix,messenger.com,Facebook
+host-keyword,facebook,Facebook
+ip-cidr,3.123.36.126/32,Facebook
+ip-cidr,52.58.209.134/32,Facebook
+ip-cidr,54.93.124.31/32,Facebook
+ip-cidr,54.173.34.141/32,Facebook
+ip-cidr,54.235.23.242/32,Facebook
+ip-cidr,169.45.248.118/32,Facebook
+# Telegram
+HOST-SUFFIX,t.me,Telegram
+HOST-SUFFIX,telegram.me,Telegram
+HOST-SUFFIX,telegram.org,Telegram
+HOST-KEYWORD,telegram,Telegram
+IP-CIDR,91.108.0.0/12,Telegram
+IP-CIDR,149.154.0.0/12,Telegram
+# Twitter
+HOST-SUFFIX,pscp.tv,Twitter
+HOST-SUFFIX,periscope.tv,Twitter
+HOST-SUFFIX,t.co,Twitter
+HOST-SUFFIX,twimg.co,Twitter
+HOST-SUFFIX,twimg.com,Twitter
+HOST-SUFFIX,twitpic.com,Twitter
+HOST-SUFFIX,vine.co,Twitter
+HOST-KEYWORD,twitter,Twitter
