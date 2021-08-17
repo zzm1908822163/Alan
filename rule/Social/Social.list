@@ -2,6 +2,7 @@
 #  Facebook
 host-suffix,fb.com,Facebook
 host-suffix,fb.me,Facebook
+host-suffix,fbcdn.net,Facebook
 host-suffix,fbworkmail.com,Facebook
 host-suffix,messenger.com,Facebook
 host-keyword,facebook,Facebook
