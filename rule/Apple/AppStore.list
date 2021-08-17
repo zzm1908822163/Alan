@@ -4,7 +4,6 @@ HOST,osxapps.itunes.apple.com, App Store
 host,mesu.apple.com, App Store
 host,gdmf.apple.com, App Store
 host,xp.apple.com, App Store
-host,humb.apple.com, App Store
 host,gsa.apple.com, App Store
 HOST-SUFFIX,mzstatic.com, App Store
-HOST-SUFFIX,buy.itunes.apple.com, App Store
+HOST-KEYWORD,buy.itunes.apple.com, App Store
