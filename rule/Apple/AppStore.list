@@ -2,4 +2,8 @@
 HOST,iosapps.itunes.apple.com,App Store
 HOST,osxapps.itunes.apple.com,App Store
 HOST-SUFFIX,mzstatic.com,App Store
-USER-AGENT,com.apple.appstore,App Store
+host,mesu.apple.com,direct
+host,gdmf.apple.com,direct
+host,xp.apple.com,direct
+host,humb.apple.com,direct
+host,profile.ess.apple.com,direct
