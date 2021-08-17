@@ -1,9 +1,10 @@
 # App Store
-HOST,iosapps.itunes.apple.com,App Store
-HOST,osxapps.itunes.apple.com,App Store
-HOST-SUFFIX,mzstatic.com,App Store
-host,mesu.apple.com,direct
-host,gdmf.apple.com,direct
-host,xp.apple.com,direct
-host,humb.apple.com,direct
-host,profile.ess.apple.com,direct
+HOST,iosapps.itunes.apple.com, App Store
+HOST,osxapps.itunes.apple.com, App Store
+host,mesu.apple.com, App Store
+host,gdmf.apple.com, App Store
+host,xp.apple.com, App Store
+host,humb.apple.com, App Store
+host,gsa.apple.com, App Store
+HOST-SUFFIX,mzstatic.com, App Store
+HOST-SUFFIX,buy.itunes.apple.com, App Store
