@@ -1,10 +1,4 @@
 # App Store
-HOST,iosapps.itunes.apple.com, App Store
-HOST,osxapps.itunes.apple.com, App Store
-host,mesu.apple.com, App Store
-host,gdmf.apple.com, App Store
-host,xp.apple.com, App Store
-host,gsa.apple.com, App Store
-HOST,time-ios.apple.com, App Store
 HOST-SUFFIX,mzstatic.com, App Store
-HOST-KEYWORD,buy.itunes.apple.com, App Store
+host-KEYWORD,apple.com, App Store
+HOST-KEYWORD,itunes.apple.com, App Store
