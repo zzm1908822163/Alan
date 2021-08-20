@@ -6,7 +6,6 @@ HOST-SUFFIX,docs.google.com,GoogleDrive
 HOST-SUFFIX,drive.google.com,GoogleDrive
 HOST-SUFFIX,googledrive.com,GoogleDrive
 HOST-SUFFIX,googleusercontent.com,GoogleDrive
-HOST-SUFFIX,googleapis.com,GoogleDrive
 
 # > Google Search
 HOST-KEYWORD,www.google.,GoogleSearch
