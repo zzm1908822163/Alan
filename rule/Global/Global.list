@@ -1,7 +1,8 @@
+# TestFlight
+HOST, beta.apple.com, Apple
+HOST, testflight.apple.com, Apple
+HOST-KEYWORD, testflight, Apple
 
-# (DNS Cache Pollution)
-# > Apple
-DOMAIN,testflight.apple.com
 # > Discord
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discordapp.com
