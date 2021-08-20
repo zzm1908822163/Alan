@@ -1,25 +1,3 @@
-# (Region-Restricted Access Denied)
-# ---(Apple)---
-HOST-SUFFIX,appsto.re // Apple URL Shortener
-HOST,books.itunes.apple.com // iBooks Store download
-HOST,api-glb-sea.smoot.apple.com // Spotlight
-HOST,beta.music.apple.com // Apple Music Web
-HOST,tv.apple.com // Apple TV Web Preview
-# > App Store Web Preview
-HOST,apps.apple.com
-HOST,itunes.apple.com
-# > Look Up
-HOST-SUFFIX,smoot.apple.com
-HOST,lookup-api.apple.com
-
-# (Network Jitter)
-# > Apple
-HOST,appleid.apple.com
-HOST,developer.apple.com
-HOST,www.icloud.com
-HOST,ocsp.apple.com
-HOST,xp.apple.com
-
 # > Cydia
 HOST,translomatic.vercel.app,Cydia
 HOST-SUFFIX,repo.hackyouriphone.org,Cydia
