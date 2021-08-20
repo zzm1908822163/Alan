@@ -1,24 +1,24 @@
 # (Region-Restricted Access Denied)
 # ---(Apple)---
-DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
-DOMAIN,books.itunes.apple.com // iBooks Store download
-DOMAIN,api-glb-sea.smoot.apple.com // Spotlight
-DOMAIN,beta.music.apple.com // Apple Music Web
-DOMAIN,tv.apple.com // Apple TV Web Preview
+HOST-SUFFIX,appsto.re // Apple URL Shortener
+HOST,books.itunes.apple.com // iBooks Store download
+HOST,api-glb-sea.smoot.apple.com // Spotlight
+HOST,beta.music.apple.com // Apple Music Web
+HOST,tv.apple.com // Apple TV Web Preview
 # > App Store Web Preview
-DOMAIN,apps.apple.com
-DOMAIN,itunes.apple.com
+HOST,apps.apple.com
+HOST,itunes.apple.com
 # > Look Up
-DOMAIN-SUFFIX,smoot.apple.com
-DOMAIN,lookup-api.apple.com
+HOST-SUFFIX,smoot.apple.com
+HOST,lookup-api.apple.com
 
 # (Network Jitter)
 # > Apple
-DOMAIN,appleid.apple.com
-DOMAIN,developer.apple.com
-DOMAIN,www.icloud.com
-DOMAIN,ocsp.apple.com
-DOMAIN,xp.apple.com
+HOST,appleid.apple.com
+HOST,developer.apple.com
+HOST,www.icloud.com
+HOST,ocsp.apple.com
+HOST,xp.apple.com
 
 # > Cydia
 HOST,translomatic.vercel.app,Cydia
@@ -44,13 +44,13 @@ HOST-KEYWORD,cydia,Cydia
 HOST-KEYWORD,zebra,Cydia
 
 # > Discord
-DOMAIN-SUFFIX,discord.com
-DOMAIN-SUFFIX,discordapp.com
-DOMAIN-SUFFIX,discordapp.net
+HOST-SUFFIX,discord.com
+HOST-SUFFIX,discordapp.com
+HOST-SUFFIX,discordapp.net
 # > Dropbox
-DOMAIN-SUFFIX,dropbox.com
-DOMAIN-SUFFIX,dropboxapi.com
-DOMAIN-SUFFIX,dropboxusercontent.com
+HOST-SUFFIX,dropbox.com
+HOST-SUFFIX,dropboxapi.com
+HOST-SUFFIX,dropboxusercontent.com
 
 # > Facebook
 host-suffix,cdninstagram.com,Facebook
@@ -95,22 +95,22 @@ HOST-SUFFIX,googleusercontent.com,GoogleDrive
 HOST-KEYWORD,www.google.,GoogleSearch
 
 # Google Voice
-host,oauthaccountmanager.googleapis.com,Google Voice
-host-suffix,lens.l.google.com,Google Voice
-host-suffix,voice.telephony.goog,Google Voice
+HOST,oauthaccountmanager.googleapis.com,Google Voice
+HOST-suffix,lens.l.google.com,Google Voice
+HOST-suffix,voice.telephony.goog,Google Voice
 
 HOST,www.googleadservices.com,Google
 HOST,accounts.google.com,Google
 HOST-KEYWORD,google.com,Google
 
 # > Microsoft
-DOMAIN-SUFFIX,aka.ms
-DOMAIN-SUFFIX,onedrive.live.com
-DOMAIN-SUFFIX,streaming.mediaservices.windows.net
-DOMAIN,assets1.xboxlive.com
-DOMAIN,assets2.xboxlive.com
-DOMAIN,az416426.vo.msecnd.net
-DOMAIN,az668014.vo.msecnd.net
+HOST-SUFFIX,aka.ms
+HOST-SUFFIX,onedrive.live.com
+HOST-SUFFIX,streaming.mediaservices.windows.net
+HOST,assets1.xboxlive.com
+HOST,assets2.xboxlive.com
+HOST,az416426.vo.msecnd.net
+HOST,az668014.vo.msecnd.net
 
 # > Telegram
 HOST-SUFFIX,t.me,Telegram
