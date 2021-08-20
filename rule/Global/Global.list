@@ -1,4 +1,6 @@
 # > Cydia
+
+HOST,crazy90.com,Cydia
 HOST,translomatic.vercel.app,Cydia
 HOST-SUFFIX,repo.hackyouriphone.org,Cydia
 HOST-SUFFIX,soda-ldz.yourepo.com,Cydia
