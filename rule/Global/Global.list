@@ -1,7 +1,47 @@
-# TestFlight
-HOST, beta.apple.com, Apple
-HOST, testflight.apple.com, Apple
-HOST-KEYWORD, testflight, Apple
+# (Region-Restricted Access Denied)
+# ---(Apple)---
+DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
+DOMAIN,books.itunes.apple.com // iBooks Store download
+DOMAIN,api-glb-sea.smoot.apple.com // Spotlight
+DOMAIN,beta.music.apple.com // Apple Music Web
+DOMAIN,tv.apple.com // Apple TV Web Preview
+# > App Store Web Preview
+DOMAIN,apps.apple.com
+DOMAIN,itunes.apple.com
+# > Look Up
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,lookup-api.apple.com
+
+# (Network Jitter)
+# > Apple
+DOMAIN,appleid.apple.com
+DOMAIN,developer.apple.com
+DOMAIN,www.icloud.com
+DOMAIN,ocsp.apple.com
+DOMAIN,xp.apple.com
+
+# > Cydia
+HOST,translomatic.vercel.app,Cydia
+HOST-SUFFIX,repo.hackyouriphone.org,Cydia
+HOST-SUFFIX,soda-ldz.yourepo.com,Cydia
+HOST-SUFFIX,apt.alfhaily.me,Cydia
+HOST-SUFFIX,cydia.iphonecake.com,Cydia
+HOST-SUFFIX,apt.bingner.com,Cydia
+HOST-SUFFIX,apt.thebigboss.org,Cydia
+HOST-SUFFIX,repo.chariz.com,Cydia
+HOST-SUFFIX,repo.dynastic.co,Cydia
+HOST-SUFFIX,ib-soft.net,Cydia
+HOST-SUFFIX,julioverne.github.io,Cydia
+HOST-SUFFIX,cydia.akemi.ai,Cydia
+HOST-SUFFIX,repo.packix.com,Cydia
+HOST-SUFFIX,cokepokes.github.io,Cydia
+HOST-SUFFIX,rejail.ru,Cydia
+HOST-SUFFIX,tigisoftware.com,Cydia
+HOST-SUFFIX,repo.twickd.com,Cydia
+HOST-SUFFIX,www.yourepo.com,Cydia
+HOST-SUFFIX,getzbra.com,Cydia
+HOST-KEYWORD,cydia,Cydia
+HOST-KEYWORD,zebra,Cydia
 
 # > Discord
 DOMAIN-SUFFIX,discord.com
@@ -80,6 +120,11 @@ HOST-KEYWORD,telegram,Telegram
 IP-CIDR,91.108.0.0/12,Telegram
 IP-CIDR,149.154.0.0/12,Telegram
 
+# TestFlight
+HOST, beta.apple.com, Apple
+HOST, testflight.apple.com, Apple
+HOST-KEYWORD, testflight, Apple
+
 # > Twitter
 
 HOST-SUFFIX,pscp.tv,Twitter
@@ -90,36 +135,3 @@ HOST-SUFFIX,twimg.com,Twitter
 HOST-SUFFIX,twitpic.com,Twitter
 HOST-SUFFIX,vine.co,Twitter
 HOST-KEYWORD,twitter,Twitter
-# (Region-Restricted Access Denied)
-# ---(Apple)---
-DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
-DOMAIN,books.itunes.apple.com // iBooks Store download
-DOMAIN,api-glb-sea.smoot.apple.com // Spotlight
-DOMAIN,beta.music.apple.com // Apple Music Web
-DOMAIN,tv.apple.com // Apple TV Web Preview
-# > App Store Web Preview
-DOMAIN,apps.apple.com
-DOMAIN,itunes.apple.com
-# > Look Up
-DOMAIN-SUFFIX,smoot.apple.com
-DOMAIN,lookup-api.apple.com
-
-# (Network Jitter)
-# > Apple
-DOMAIN,appleid.apple.com
-DOMAIN,developer.apple.com
-DOMAIN,www.icloud.com
-DOMAIN,ocsp.apple.com
-DOMAIN,xp.apple.com
-# > DigiCert
-DOMAIN,cacerts.digicert.com
-DOMAIN,crl3.digicert.com
-DOMAIN,crl4.digicert.com
-DOMAIN,ocsp.digicert.com
-# > Others
-DOMAIN-SUFFIX,cloudcone.com.cn
-DOMAIN-SUFFIX,inkbunny.net
-DOMAIN-SUFFIX,metapix.net
-DOMAIN-SUFFIX,s3.amazonaws.com
-DOMAIN-SUFFIX,zaobao.com.sg
-DOMAIN,international-gfe.download.nvidia.com
