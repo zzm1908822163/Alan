@@ -24,13 +24,13 @@ HOST-KEYWORD,cydia,Cydia
 HOST-KEYWORD,zebra,Cydia
 
 # > Discord
-HOST-SUFFIX,discord.com
-HOST-SUFFIX,discordapp.com
-HOST-SUFFIX,discordapp.net
+HOST-SUFFIX,discord.com, Discord
+HOST-SUFFIX,discordapp.com, Discord
+HOST-SUFFIX,discordapp.net, Discord
 # > Dropbox
-HOST-SUFFIX,dropbox.com
-HOST-SUFFIX,dropboxapi.com
-HOST-SUFFIX,dropboxusercontent.com
+HOST-SUFFIX,dropbox.com, Dropbox
+HOST-SUFFIX,dropboxapi.com, Dropbox
+HOST-SUFFIX,dropboxusercontent.com, Dropbox
 
 # > Facebook
 host-suffix,cdninstagram.com,Facebook
@@ -84,13 +84,13 @@ HOST,accounts.google.com,Google
 HOST-KEYWORD,google.com,Google
 
 # > Microsoft
-HOST-SUFFIX,aka.ms
-HOST-SUFFIX,onedrive.live.com
-HOST-SUFFIX,streaming.mediaservices.windows.net
-HOST,assets1.xboxlive.com
-HOST,assets2.xboxlive.com
-HOST,az416426.vo.msecnd.net
-HOST,az668014.vo.msecnd.net
+HOST-SUFFIX,aka.ms, Microsoft
+HOST-SUFFIX,onedrive.live.com, Microsoft
+HOST-SUFFIX,streaming.mediaservices.windows.net, Microsoft
+HOST,assets1.xboxlive.com, Microsoft
+HOST,assets2.xboxlive.com, Microsoft
+HOST,az416426.vo.msecnd.net, Microsoft
+HOST,az668014.vo.msecnd.net, Microsoft
 
 # > Telegram
 HOST-SUFFIX,t.me,Telegram
