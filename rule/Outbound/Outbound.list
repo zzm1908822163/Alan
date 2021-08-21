@@ -110,9 +110,9 @@ IP-CIDR,91.108.0.0/12,Telegram
 IP-CIDR,149.154.0.0/12,Telegram
 
 # TestFlight
-HOST, beta.apple.com, Apple
-HOST, testflight.apple.com, Apple
-HOST-KEYWORD, testflight, Apple
+HOST, beta.apple.com, TestFlight
+HOST, testflight.apple.com, TestFlight
+HOST-KEYWORD, testflight, TestFlight
 
 # > Twitter
 
@@ -126,15 +126,16 @@ HOST-SUFFIX,vine.co,Twitter
 HOST-KEYWORD,twitter,Twitter
 
 # > Other
-HOST-SUFFIX,phncdn.com, Pornhub
-HOST-SUFFIX,phprcdn.com, Pornhub
-HOST-SUFFIX,pornhub.com, Pornhub
-HOST-SUFFIX,pornhubpremium.com, Pornhub
-HOST-SUFFIX,xvideos.com, XVideos
-HOST-SUFFIX,xhamster.com, XHamster
-HOST-SUFFIX,pornlulu.com, Pornlulu
-HOST,zh.cam4.com, cam4
-HOST-SUFFIX,cam4.com, cam4
-HOST-SUFFIX,chaturbate.com, chaturbate
-HOST-SUFFIX,91porn.com, 91porn
-HOST-SUFFIX,1024lsj.cc, 1024
+HOST-SUFFIX,phncdn.com
+HOST-SUFFIX,phprcdn.com
+HOST-SUFFIX,pornhub.com
+HOST-SUFFIX,pornhubpremium.com
+HOST-SUFFIX,xvideos.com
+HOST-SUFFIX,xhamster.com
+HOST-SUFFIX,pornlulu.com
+HOST,zh.cam4.com
+HOST-SUFFIX,cam4.com
+HOST-SUFFIX,chaturbate.com
+HOST-SUFFIX,91porn.com
+HOST-SUFFIX,1024lsj.cc
+host-suffix, ivapp.cn
