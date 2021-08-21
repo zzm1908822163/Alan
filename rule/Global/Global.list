@@ -115,3 +115,22 @@ HOST-SUFFIX,twimg.com,Twitter
 HOST-SUFFIX,twitpic.com,Twitter
 HOST-SUFFIX,vine.co,Twitter
 HOST-KEYWORD,twitter,Twitter
+
+# > Other
+HOST-SUFFIX,phncdn.com, Pornhub
+HOST-SUFFIX,phprcdn.com, Pornhub
+HOST-SUFFIX,pornhub.com, Pornhub
+HOST-SUFFIX,pornhubpremium.com, Pornhub
+
+HOST-SUFFIX,xvideos.com, XVideos
+
+HOST-SUFFIX,xhamster.com, XHamster
+
+HOST-SUFFIX,pornlulu.com, Pornlulu
+
+HOST,zh.cam4.com, cam4
+HOST-SUFFIX,cam4.com, cam4
+
+HOST-SUFFIX,chaturbate.com, chaturbate
+
+HOST-SUFFIX,91porn.com, 91porn
