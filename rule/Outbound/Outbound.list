@@ -83,6 +83,8 @@ HOST,www.googleadservices.com,Google
 HOST,accounts.google.com,Google
 HOST-KEYWORD,google.com,Google
 # > OneDrive
+
+HOST,api.onedrive.com, OneDrive
 HOST-SUFFIX,files.1drv.com, OneDrive
 HOST-SUFFIX,graph.microsoft.com, OneDrive
 HOST-SUFFIX,microsoftonline.com, OneDrive
