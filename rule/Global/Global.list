@@ -92,6 +92,15 @@ HOST,assets2.xboxlive.com, Microsoft
 HOST,az416426.vo.msecnd.net, Microsoft
 HOST,az668014.vo.msecnd.net, Microsoft
 
+# > Spotify
+USER-AGENT,Spotify*, Spotify
+HOST-SUFFIX,pscdn.co, Spotify
+HOST-SUFFIX,scdn.co, Spotify
+HOST-SUFFIX,spotify.com, Spotify
+HOST-SUFFIX,spoti.fi, Spotify
+HOST-KEYWORD,spotify.com, Spotify
+HOST-KEYWORD,-spotify-com, Spotify
+
 # > Telegram
 HOST-SUFFIX,t.me,Telegram
 HOST-SUFFIX,telegram.me,Telegram
