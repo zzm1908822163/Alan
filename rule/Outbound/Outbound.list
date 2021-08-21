@@ -82,15 +82,11 @@ HOST-suffix,voice.telephony.goog,Google Voice
 HOST,www.googleadservices.com,Google
 HOST,accounts.google.com,Google
 HOST-KEYWORD,google.com,Google
-
-# > Microsoft
-HOST-SUFFIX,aka.ms, Microsoft
-HOST-SUFFIX,onedrive.live.com, Microsoft
-HOST-SUFFIX,streaming.mediaservices.windows.net, Microsoft
-HOST,assets1.xboxlive.com, Microsoft
-HOST,assets2.xboxlive.com, Microsoft
-HOST,az416426.vo.msecnd.net, Microsoft
-HOST,az668014.vo.msecnd.net, Microsoft
+# > OneDrive
+HOST-SUFFIX,files.1drv.com, OneDrive
+HOST-SUFFIX,graph.microsoft.com, OneDrive
+HOST-SUFFIX,msauth.net, OneDrive
+HOST-SUFFIX,microsoftonline.com, OneDrive
 
 # > Spotify
 USER-AGENT,Spotify*, Spotify
