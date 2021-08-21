@@ -85,8 +85,8 @@ HOST-KEYWORD,google.com,Google
 # > OneDrive
 HOST-SUFFIX,files.1drv.com, OneDrive
 HOST-SUFFIX,graph.microsoft.com, OneDrive
-HOST-SUFFIX,msauth.net, OneDrive
 HOST-SUFFIX,microsoftonline.com, OneDrive
+HOST-KEYWORD,msauth.net, OneDrive
 
 # > Spotify
 USER-AGENT,Spotify*, Spotify
