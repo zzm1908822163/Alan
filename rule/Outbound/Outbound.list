@@ -1,4 +1,4 @@
-# > Cydia
+# Cydia
 HOST,crazy90.com, Proxy
 HOST,translomatic.vercel.app, Proxy
 HOST-SUFFIX,repo.hackyouriphone.org, Proxy
@@ -22,17 +22,17 @@ HOST-SUFFIX,getzbra.com, Proxy
 HOST-KEYWORD,cydia, Proxy
 HOST-KEYWORD,zebra, Proxy
 
-# > Discord
+# Discord
 HOST-SUFFIX,discord.com, Proxy
 HOST-SUFFIX,discordapp.com, Proxy
 HOST-SUFFIX,discordapp.net, Proxy
 
-# > Dropbox
+# Dropbox
 HOST-SUFFIX,dropbox.com, Proxy
 HOST-SUFFIX,dropboxapi.com, Proxy
 HOST-SUFFIX,dropboxusercontent.com, Proxy
 
-# > Facebook
+# Facebook
 host-suffix,cdninstagram.com, Proxy
 host-suffix,fb.com, Proxy
 host-suffix,fb.me, Proxy
@@ -56,7 +56,7 @@ ip-cidr,54.173.34.141/32, Proxy
 ip-cidr,54.235.23.242/32, Proxy
 ip-cidr,169.45.248.118/32, Proxy
 
-# > Github
+# Github
 HOST-SUFFIX,github.com, Proxy
 HOST-SUFFIX,github.io, Proxy
 HOST-SUFFIX,githubusercontent.com, Proxy
@@ -71,7 +71,7 @@ HOST-SUFFIX,drive.google.com, Proxy
 HOST-SUFFIX,googledrive.com, Proxy
 HOST-SUFFIX,googleusercontent.com, Proxy
 
-# > Google Search
+# Google Search
 HOST-KEYWORD,www.google., Proxy
 # Google Voice
 HOST,oauthaccountmanager.googleapis.com, Proxy
@@ -82,14 +82,14 @@ HOST,www.googleadservices.com, Proxy
 HOST,accounts.google.com, Proxy
 HOST-KEYWORD,google.com, Proxy
 
-# > OneDrive
+# OneDrive
 HOST,api.onedrive.com, Proxy
 HOST-SUFFIX,files.1drv.com, Proxy
 HOST-SUFFIX,graph.microsoft.com, Proxy
 HOST-SUFFIX,microsoftonline.com, Proxy
 HOST-KEYWORD,msauth.net, Proxy
 
-# > Spotify
+# Spotify
 USER-AGENT,Spotify*, Proxy
 HOST-SUFFIX,pscdn.co, Proxy
 HOST-SUFFIX,scdn.co, Proxy
@@ -98,7 +98,7 @@ HOST-SUFFIX,spoti.fi, Proxy
 HOST-KEYWORD,spotify.com, Proxy
 HOST-KEYWORD,-spotify-com, Proxy
 
-# > Telegram
+# Telegram
 HOST-SUFFIX,t.me, Proxy
 HOST-SUFFIX,telegram.me, Proxy
 HOST-SUFFIX,telegram.org, Proxy
@@ -111,7 +111,7 @@ HOST, beta.apple.com, Proxy
 HOST, testflight.apple.com, Proxy
 HOST-KEYWORD, testflight, Proxy
 
-# > Twitter
+# Twitter
 HOST-SUFFIX,pscp.tv, Proxy
 HOST-SUFFIX,periscope.tv, Proxy
 HOST-SUFFIX,t.co, Proxy
@@ -121,7 +121,21 @@ HOST-SUFFIX,twitpic.com, Proxy
 HOST-SUFFIX,vine.co, Proxy
 HOST-KEYWORD,twitter, Proxy
 
-# > Other
+# Wikipedia
+HOST-SUFFIX,mediawiki.org, Proxy
+HOST-SUFFIX,wikibooks.org, Proxy
+HOST-SUFFIX,wikidata.org, Proxy
+HOST-SUFFIX,wikileaks.org, Proxy
+HOST-SUFFIX,wikimedia.org, Proxy
+HOST-SUFFIX,wikinews.org, Proxy
+HOST-SUFFIX,wikipedia.org, Proxy
+HOST-SUFFIX,wikiquote.org, Proxy
+HOST-SUFFIX,wikisource.org, Proxy
+HOST-SUFFIX,wikiversity.org, Proxy
+HOST-SUFFIX,wikivoyage.org, Proxy
+HOST-SUFFIX,wiktionary.org, Proxy
+
+#  Other
 HOST-SUFFIX,phpcdn.com, Proxy
 HOST-SUFFIX,phprcdn.com, Proxy
 HOST-SUFFIX,pornhub.com, Proxy
