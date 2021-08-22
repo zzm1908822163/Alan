@@ -123,8 +123,8 @@ HOST-SUFFIX,vine.co,Twitter
 HOST-KEYWORD,twitter,Twitter
 
 # > Other
-HOST-SUFFIX,phncdn.com
-HOST-SUFFIX,phprcdn.com
+HOST-SUFFIX,phncdn.com,
+HOST-SUFFIX,phprcdn.com,
 HOST-SUFFIX,pornhub.com
 HOST-SUFFIX,pornhubpremium.com
 HOST-SUFFIX,xvideos.com
