@@ -89,7 +89,7 @@ HOST-SUFFIX,files.1drv.com, Proxy
 HOST-SUFFIX,graph.microsoft.com, Proxy
 HOST-SUFFIX,microsoftonline.com, Proxy
 HOST-KEYWORD,msauth.net, Proxy
-HOST-KEYWORD,microsoft.com，Proxy
+HOST-KEYWORD,microsoft.com, Proxy
 
 # Spotify
 USER-AGENT,Spotify*, Proxy
