@@ -84,7 +84,7 @@ HOST-KEYWORD,google.com, Proxy
 
 # OneDrive
 HOST,api.onedrive.com, Proxy
-HOST-SUFFIX,onedrive.live.com，Proxy
+HOST-SUFFIX,onedrive.live.com, Proxy
 HOST-SUFFIX,files.1drv.com, Proxy
 HOST-SUFFIX,graph.microsoft.com, Proxy
 HOST-SUFFIX,microsoftonline.com, Proxy
