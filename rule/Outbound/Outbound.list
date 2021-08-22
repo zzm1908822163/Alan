@@ -123,7 +123,6 @@ HOST-SUFFIX,vine.co,Twitter
 HOST-KEYWORD,twitter,Twitter
 
 # > Other
-HOST-SUFFIX,phncdn.com,
 HOST-SUFFIX,phprcdn.com,
 HOST-SUFFIX,pornhub.com
 HOST-SUFFIX,pornhubpremium.com
@@ -135,4 +134,4 @@ HOST-SUFFIX,cam4.com
 HOST-SUFFIX,chaturbate.com
 HOST-SUFFIX,91porn.com
 HOST-SUFFIX,1024lsj.cc
-host-suffix, ivapp.cn
+host-suffix,ivapp.cn
