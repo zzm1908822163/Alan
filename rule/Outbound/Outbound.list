@@ -1,138 +1,136 @@
 # > Cydia
-HOST,crazy90.com,Cydia
-HOST,translomatic.vercel.app,Cydia
-HOST-SUFFIX,repo.hackyouriphone.org,Cydia
-HOST-SUFFIX,soda-ldz.yourepo.com,Cydia
-HOST-SUFFIX,apt.alfhaily.me,Cydia
-HOST-SUFFIX,cydia.iphonecake.com,Cydia
-HOST-SUFFIX,apt.bingner.com,Cydia
-HOST-SUFFIX,apt.thebigboss.org,Cydia
-HOST-SUFFIX,repo.chariz.com,Cydia
-HOST-SUFFIX,repo.dynastic.co,Cydia
-HOST-SUFFIX,ib-soft.net,Cydia
-HOST-SUFFIX,julioverne.github.io,Cydia
-HOST-SUFFIX,cydia.akemi.ai,Cydia
-HOST-SUFFIX,repo.packix.com,Cydia
-HOST-SUFFIX,cokepokes.github.io,Cydia
-HOST-SUFFIX,rejail.ru,Cydia
-HOST-SUFFIX,tigisoftware.com,Cydia
-HOST-SUFFIX,repo.twickd.com,Cydia
-HOST-SUFFIX,www.yourepo.com,Cydia
-HOST-SUFFIX,getzbra.com,Cydia
-HOST-KEYWORD,cydia,Cydia
-HOST-KEYWORD,zebra,Cydia
+HOST,crazy90.com, Proxy
+HOST,translomatic.vercel.app, Proxy
+HOST-SUFFIX,repo.hackyouriphone.org, Proxy
+HOST-SUFFIX,soda-ldz.yourepo.com, Proxy
+HOST-SUFFIX,apt.alfhaily.me, Proxy
+HOST-SUFFIX,cydia.iphonecake.com, Proxy
+HOST-SUFFIX,apt.bingner.com, Proxy
+HOST-SUFFIX,apt.thebigboss.org, Proxy
+HOST-SUFFIX,repo.chariz.com, Proxy
+HOST-SUFFIX,repo.dynastic.co, Proxy
+HOST-SUFFIX,ib-soft.net, Proxy
+HOST-SUFFIX,julioverne.github.io, Proxy
+HOST-SUFFIX,cydia.akemi.ai, Proxy
+HOST-SUFFIX,repo.packix.com, Proxy
+HOST-SUFFIX,cokepokes.github.io, Proxy
+HOST-SUFFIX,rejail.ru, Proxy
+HOST-SUFFIX,tigisoftware.com, Proxy
+HOST-SUFFIX,repo.twickd.com, Proxy
+HOST-SUFFIX,www.yourepo.com, Proxy
+HOST-SUFFIX,getzbra.com, Proxy
+HOST-KEYWORD,cydia, Proxy
+HOST-KEYWORD,zebra, Proxy
 
 # > Discord
-HOST-SUFFIX,discord.com, Discord
-HOST-SUFFIX,discordapp.com, Discord
-HOST-SUFFIX,discordapp.net, Discord
+HOST-SUFFIX,discord.com, Proxy
+HOST-SUFFIX,discordapp.com, Proxy
+HOST-SUFFIX,discordapp.net, Proxy
 
 # > Dropbox
-HOST-SUFFIX,dropbox.com, Dropbox
-HOST-SUFFIX,dropboxapi.com, Dropbox
-HOST-SUFFIX,dropboxusercontent.com, Dropbox
+HOST-SUFFIX,dropbox.com, Proxy
+HOST-SUFFIX,dropboxapi.com, Proxy
+HOST-SUFFIX,dropboxusercontent.com, Proxy
 
 # > Facebook
-host-suffix,cdninstagram.com,Facebook
-host-suffix,fb.com,Facebook
-host-suffix,fb.me,Facebook
-host-suffix,fbaddins.com,Facebook
-host-suffix,fbcdn.net,Facebook
-host-suffix,fbsbx.com,Facebook
-host-suffix,fbworkmail.com,Facebook
-host-suffix,instagram.com,Facebook
-host-suffix,m.me,Facebook
-host-suffix,messenger.com,Facebook
-host-suffix,oculus.com,Facebook
-host-suffix,oculuscdn.com,Facebook
-host-suffix,rocksdb.org,Facebook
-host-suffix,whatsapp.com,Facebook
-host-suffix,whatsapp.net,Facebook
-host-keyword,facebook,Facebook
-ip-cidr,3.123.36.126/32,Facebook
-ip-cidr,52.58.209.134/32,Facebook
-ip-cidr,54.93.124.31/32,Facebook
-ip-cidr,54.173.34.141/32,Facebook
-ip-cidr,54.235.23.242/32,Facebook
-ip-cidr,169.45.248.118/32,Facebook
+host-suffix,cdninstagram.com, Proxy
+host-suffix,fb.com, Proxy
+host-suffix,fb.me, Proxy
+host-suffix,fbaddins.com, Proxy
+host-suffix,fbcdn.net, Proxy
+host-suffix,fbsbx.com, Proxy
+host-suffix,fbworkmail.com, Proxy
+host-suffix,instagram.com, Proxy
+host-suffix,m.me, Proxy
+host-suffix,messenger.com, Proxy
+host-suffix,oculus.com, Proxy
+host-suffix,oculuscdn.com, Proxy
+host-suffix,rocksdb.org, Proxy
+host-suffix,whatsapp.com, Proxy
+host-suffix,whatsapp.net, Proxy
+host-keyword,facebook, Proxy
+ip-cidr,3.123.36.126/32, Proxy
+ip-cidr,52.58.209.134/32, Proxy
+ip-cidr,54.93.124.31/32, Proxy
+ip-cidr,54.173.34.141/32, Proxy
+ip-cidr,54.235.23.242/32, Proxy
+ip-cidr,169.45.248.118/32, Proxy
 
 # > Github
-HOST-SUFFIX,github.com,GitHub
-HOST-SUFFIX,github.io,GitHub
-HOST-SUFFIX,githubusercontent.com,GitHub
-HOST-KEYWORD,github,GitHub
+HOST-SUFFIX,github.com, Proxy
+HOST-SUFFIX,github.io, Proxy
+HOST-SUFFIX,githubusercontent.com, Proxy
+HOST-KEYWORD,github, Proxy
 
 # Google Gmail
-HOST-KEYWORD,gmail.com,Google
+HOST-KEYWORD,gmail.com, Proxy
 
 # Google Driver
-HOST-SUFFIX,docs.google.com,GoogleDrive
-HOST-SUFFIX,drive.google.com,GoogleDrive
-HOST-SUFFIX,googledrive.com,GoogleDrive
-HOST-SUFFIX,googleusercontent.com,GoogleDrive
+HOST-SUFFIX,docs.google.com, Proxy
+HOST-SUFFIX,drive.google.com, Proxy
+HOST-SUFFIX,googledrive.com, Proxy
+HOST-SUFFIX,googleusercontent.com, Proxy
 
 # > Google Search
-HOST-KEYWORD,www.google.,GoogleSearch
-
+HOST-KEYWORD,www.google., Proxy
 # Google Voice
-HOST,oauthaccountmanager.googleapis.com,Google Voice
-HOST-suffix,lens.l.google.com,Google Voice
-HOST-suffix,voice.telephony.goog,Google Voice
+HOST,oauthaccountmanager.googleapis.com, Proxy
+HOST-suffix,lens.l.google.com, Proxy
+HOST-suffix,voice.telephony.goog, Proxy
 
-HOST,www.googleadservices.com,Google
-HOST,accounts.google.com,Google
-HOST-KEYWORD,google.com,Google
+HOST,www.googleadservices.com, Proxy
+HOST,accounts.google.com, Proxy
+HOST-KEYWORD,google.com, Proxy
 
 # > OneDrive
-HOST,api.onedrive.com, OneDrive
-HOST-SUFFIX,files.1drv.com, OneDrive
-HOST-SUFFIX,graph.microsoft.com, OneDrive
-HOST-SUFFIX,microsoftonline.com, OneDrive
-HOST-KEYWORD,msauth.net, OneDrive
+HOST,api.onedrive.com, Proxy
+HOST-SUFFIX,files.1drv.com, Proxy
+HOST-SUFFIX,graph.microsoft.com, Proxy
+HOST-SUFFIX,microsoftonline.com, Proxy
+HOST-KEYWORD,msauth.net, Proxy
 
 # > Spotify
-USER-AGENT,Spotify*, Spotify
-HOST-SUFFIX,pscdn.co, Spotify
-HOST-SUFFIX,scdn.co, Spotify
-HOST-SUFFIX,spotify.com, Spotify
-HOST-SUFFIX,spoti.fi, Spotify
-HOST-KEYWORD,spotify.com, Spotify
-HOST-KEYWORD,-spotify-com, Spotify
+USER-AGENT,Spotify*, Proxy
+HOST-SUFFIX,pscdn.co, Proxy
+HOST-SUFFIX,scdn.co, Proxy
+HOST-SUFFIX,spotify.com, Proxy
+HOST-SUFFIX,spoti.fi, Proxy
+HOST-KEYWORD,spotify.com, Proxy
+HOST-KEYWORD,-spotify-com, Proxy
 
 # > Telegram
-HOST-SUFFIX,t.me,Telegram
-HOST-SUFFIX,telegram.me,Telegram
-HOST-SUFFIX,telegram.org,Telegram
-HOST-KEYWORD,telegram,Telegram
-IP-CIDR,91.108.0.0/12,Telegram
-IP-CIDR,149.154.0.0/12,Telegram
+HOST-SUFFIX,t.me, Proxy
+HOST-SUFFIX,telegram.me, Proxy
+HOST-SUFFIX,telegram.org, Proxy
+HOST-KEYWORD,telegram, Proxy
+IP-CIDR,91.108.0.0/12, Proxy
+IP-CIDR,149.154.0.0/12, Proxy
 
 # TestFlight
-HOST, beta.apple.com, TestFlight
-HOST, testflight.apple.com, TestFlight
-HOST-KEYWORD, testflight, TestFlight
+HOST, beta.apple.com, Proxy
+HOST, testflight.apple.com, Proxy
+HOST-KEYWORD, testflight, Proxy
 
 # > Twitter
-HOST-SUFFIX,pscp.tv,Twitter
-HOST-SUFFIX,periscope.tv,Twitter
-HOST-SUFFIX,t.co,Twitter
-HOST-SUFFIX,twimg.co,Twitter
-HOST-SUFFIX,twimg.com,Twitter
-HOST-SUFFIX,twitpic.com,Twitter
-HOST-SUFFIX,vine.co,Twitter
-HOST-KEYWORD,twitter,Twitter
+HOST-SUFFIX,pscp.tv, Proxy
+HOST-SUFFIX,periscope.tv, Proxy
+HOST-SUFFIX,t.co, Proxy
+HOST-SUFFIX,twimg.co, Proxy
+HOST-SUFFIX,twimg.com, Proxy
+HOST-SUFFIX,twitpic.com, Proxy
+HOST-SUFFIX,vine.co, Proxy
+HOST-KEYWORD,twitter, Proxy
 
 # > Other
-HOST-SUFFIX,phpcdn.com
-HOST-SUFFIX,phprcdn.com
-HOST-SUFFIX,pornhub.com
-HOST-SUFFIX,pornhubpremium.com
-HOST-SUFFIX,xvideos.com
-HOST-SUFFIX,xhamster.com
-HOST-SUFFIX,pornlulu.com
-HOST,zh.cam4.com
-HOST-SUFFIX,cam4.com
-HOST-SUFFIX,chaturbate.com
-HOST-SUFFIX,91porn.com
-HOST-SUFFIX,1024lsj.cc
-host-suffix,ivapp.cn
+HOST-SUFFIX,phpcdn.com, Proxy
+HOST-SUFFIX,phprcdn.com, Proxy
+HOST-SUFFIX,pornhub.com, Proxy
+HOST-SUFFIX,pornhubpremium.com, Proxy
+HOST-SUFFIX,xvideos.com, Proxy
+HOST-SUFFIX,xhamster.com, Proxy
+HOST-SUFFIX,pornlulu.com, Proxy
+HOST,zh.cam4.com, Proxy
+HOST-SUFFIX,cam4.com, Proxy
+HOST-SUFFIX,chaturbate.com, Proxy
+HOST-SUFFIX,91porn.com, Proxy
+HOST-SUFFIX,1024lsj.cc, Proxy
