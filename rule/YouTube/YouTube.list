@@ -1,4 +1,5 @@
-HOST,googleads.g.doubleclick.net,YouTube
+HOST,ulogs.umeng.com, YouTube
+HOST,googleads.g.doubleclick.net, YouTube
 HOST-SUFFIX,googlevideo.com,YouTube
 HOST-SUFFIX,youtube.com,YouTube
 HOST-SUFFIX,googleapis.com,YouTube
