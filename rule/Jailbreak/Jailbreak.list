@@ -1,21 +1,26 @@
-HOST,translomatic.vercel.app,Cydia
-HOST-SUFFIX,repo.hackyouriphone.org,Cydia
-HOST-SUFFIX,soda-ldz.yourepo.com,Cydia
-HOST-SUFFIX,apt.alfhaily.me,Cydia
-HOST-SUFFIX,cydia.iphonecake.com,Cydia
-HOST-SUFFIX,apt.bingner.com,Cydia
-HOST-SUFFIX,apt.thebigboss.org,Cydia
-HOST-SUFFIX,repo.chariz.com,Cydia
-HOST-SUFFIX,repo.dynastic.co,Cydia
-HOST-SUFFIX,ib-soft.net,Cydia
-HOST-SUFFIX,julioverne.github.io,Cydia
-HOST-SUFFIX,cydia.akemi.ai,Cydia
-HOST-SUFFIX,repo.packix.com,Cydia
-HOST-SUFFIX,cokepokes.github.io,Cydia
-HOST-SUFFIX,rejail.ru,Cydia
-HOST-SUFFIX,tigisoftware.com,Cydia
-HOST-SUFFIX,repo.twickd.com,Cydia
-HOST-SUFFIX,www.yourepo.com,Cydia
-HOST-SUFFIX,getzbra.com,Cydia
-HOST-KEYWORD,cydia,Cydia
-HOST-KEYWORD,zebra,Cydia
+# jailbreak
+HOST-SUFFIX,akemi.ai, Proxy
+HOST-SUFFIX,alfhaily.me, Proxy
+HOST-SUFFIX,bingner.com, Proxy
+HOST-SUFFIX,canister.me, Proxy
+HOST-SUFFIX,chariz.com, Proxy
+HOST-SUFFIX,cokepokes.github.io, Proxy
+HOST-SUFFIX,crazy90.com, Proxy
+HOST-SUFFIX,dynastic.co, Proxy
+HOST-SUFFIX,getzbra.com, Proxy
+HOST-SUFFIX,hackyouriphone.org, Proxy
+HOST-SUFFIX,ib-soft.net, Proxy
+HOST-SUFFIX,iphonecake.com, Proxy
+HOST-SUFFIX,julioverne.github.io, Proxy
+HOST-SUFFIX,packix.com, Proxy
+HOST-SUFFIX,rejail.ru, Proxy
+HOST-SUFFIX,sparkdev.me, Proxy
+HOST-SUFFIX,thebigboss.org, Proxy
+HOST-SUFFIX,theodyssey.dev, Proxy
+HOST-SUFFIX,translomatic.vercel.app, Proxy
+HOST-SUFFIX,tigisoftware.com, Proxy
+HOST-SUFFIX,twickd.com, Proxy
+HOST-SUFFIX,yourepo.com, Proxy
+HOST-KEYWORD,cydia, Proxy
+HOST-KEYWORD,zebra, Proxy
+HOST-KEYWORD,sileo, Proxy
