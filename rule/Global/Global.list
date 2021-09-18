@@ -141,15 +141,11 @@ HOST-SUFFIX,wikivoyage.org, Proxy
 HOST-SUFFIX,wiktionary.org, Proxy
 
 #  Other
-HOST-SUFFIX,phpcdn.com, Proxy
-HOST-SUFFIX,phprcdn.com, Proxy
-HOST-SUFFIX,pornhub.com, Proxy
-HOST-SUFFIX,pornhubpremium.com, Proxy
+HOST-SUFFIX,cn.pornhub.com, Proxy
+HOST-SUFFIX,cn.pornhubpremium.com, Proxy
 HOST-SUFFIX,xvideos.com, Proxy
 HOST-SUFFIX,xhamster.com, Proxy
-HOST-SUFFIX,pornlulu.com, Proxy
-HOST,zh.cam4.com, Proxy
-HOST-SUFFIX,cam4.com, Proxy
+HOST-SUFFIX,zh.cam4.com, Proxy
 HOST-SUFFIX,chaturbate.com, Proxy
 HOST-SUFFIX,91porn.com, Proxy
 HOST-SUFFIX,1024lsj.cc, Proxy
