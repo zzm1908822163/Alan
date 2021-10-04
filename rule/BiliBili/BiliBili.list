@@ -1,4 +1,24 @@
-HOST-SUFFIX,biliapi.net,bilibili
-HOST-SUFFIX,bilibili.com,bilibili
-HOST,upos-hz-mirrorakam.akamaized.net,bilibili
-HOST-KEYWORD,cn-hk-eq-bcache-,bilibili
+HOST-KEYWORD,qiyi, BiliBili
+HOST-SUFFIX,qy.net, BiliBili
+IP-CIDR,101.227.0.0/16, BiliBili,no-resolve
+IP-CIDR,101.224.0.0/13, BiliBili,no-resolve
+IP-CIDR,119.176.0.0/12, BiliBili,no-resolve
+HOST-KEYWORD,epic, BiliBili
+USER-AGENT,bili*, BiliBili
+USER-AGENT,Bilibili*, BiliBili
+HOST-SUFFIX,acg.tv, BiliBili
+HOST-SUFFIX,acgvideo.com, BiliBili
+HOST-SUFFIX,b23.tv, BiliBili
+HOST-SUFFIX,bigfun.cn,BiliBili
+HOST-SUFFIX,bigfunapp.cn, BiliBili
+HOST-SUFFIX,biliapi.com, BiliBili
+HOST-SUFFIX,biliapi.net, BiliBili
+HOST-SUFFIX,bilibili.com, BiliBili
+HOST-SUFFIX,bilibili.tv, BiliBili
+HOST-SUFFIX,biligame.com, BiliBili
+HOST-SUFFIX,biligame.net, BiliBili
+HOST-SUFFIX,bilivideo.com, BiliBili
+HOST-SUFFIX,hdslb.com, BiliBili
+HOST-SUFFIX,im9.com, BiliBili
+HOST,upos-hz-mirrorakam.akamaized.net, BiliBili
+HOST-SUFFIX,smtcdns.net, BiliBili
