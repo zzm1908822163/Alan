@@ -30,6 +30,19 @@ HOST-SUFFIX,discord.com, Global
 HOST-SUFFIX,discordapp.com, Global
 HOST-SUFFIX,discordapp.net, Global
 
+# (DNS Cache Pollution Protection)
+# > Google
+HOST-SUFFIX,ampproject.org, Global
+HOST-SUFFIX,appspot.com, Global
+HOST-SUFFIX,blogger.com, Global
+HOST-SUFFIX,getoutline.org, Global
+HOST-SUFFIX,gvt0.com, Global
+HOST-SUFFIX,gvt1.com, Global
+HOST-SUFFIX,gvt3.com, Global
+HOST-SUFFIX,xn--ngstr-lra8j.com, Global
+HOST-KEYWORD,google, Global
+HOST-KEYWORD,blogspot, Global
+
 # Dropbox
 HOST-SUFFIX,dropbox.com, Global
 HOST-SUFFIX,dropboxapi.com, Global
