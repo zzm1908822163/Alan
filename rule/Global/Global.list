@@ -185,6 +185,25 @@ HOST, beta.apple.com, Global
 HOST, testflight.apple.com, Global
 HOST-KEYWORD, testflight, Global
 
+# Twitch
+HOST-SUFFIX,ext-twitch.tv, Global
+HOST-SUFFIX,jtvnw.net, Global
+HOST-SUFFIX,ttvnw.net, Global
+HOST-SUFFIX,twitch.tv, Global
+HOST-SUFFIX,twitchcdn.net, Global
+HOST-SUFFIX,twitchsvc.net, Global
+IP-CIDR,103.53.48.0/23, Global
+IP-CIDR,185.42.204.0/22, Global
+IP-CIDR,192.108.239.0/24, Global
+IP-CIDR,192.16.64.0/21, Global
+IP-CIDR,199.9.248.0/21, Global
+IP-CIDR,23.160.0.0/24, Global
+IP-CIDR,45.113.128.0/22, Global
+IP-CIDR,52.223.192.0/20, Global
+IP-CIDR,52.223.208.0/21, Global
+IP-CIDR,52.223.224.0/19, Global
+IP-CIDR,99.181.64.0/18, Global
+
 # Twitter
 
 HOST-SUFFIX,pscp.tv, Global
