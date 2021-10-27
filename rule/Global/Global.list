@@ -49,22 +49,22 @@ DOMAIN-SUFFIX,dropboxapi.com, Global
 DOMAIN-SUFFIX,dropboxusercontent.com, Global
 
 # Facebook
-DOMAIN-suffix,cdninstagram.com, Global
-DOMAIN-suffix,fb.com, Global
-DOMAIN-suffix,fb.me, Global
-DOMAIN-suffix,fbaddins.com, Global
-DOMAIN-suffix,fbcdn.net, Global
-DOMAIN-suffix,fbsbx.com, Global
-DOMAIN-suffix,fbworkmail.com, Global
-DOMAIN-suffix,instagram.com, Global
-DOMAIN-suffix,m.me, Global
-DOMAIN-suffix,messenger.com, Global
-DOMAIN-suffix,oculus.com, Global
-DOMAIN-suffix,oculuscdn.com, Global
-DOMAIN-suffix,rocksdb.org, Global
-DOMAIN-suffix,whatsapp.com, Global
-DOMAIN-suffix,whatsapp.net, Global
-DOMAIN-keyword,facebook, Global
+DOMAIN-SUFFIX,cdninstagram.com, Global
+DOMAIN-SUFFIX,fb.com, Global
+DOMAIN-SUFFIX,fb.me, Global
+DOMAIN-SUFFIX,fbaddins.com, Global
+DOMAIN-SUFFIX,fbcdn.net, Global
+DOMAIN-SUFFIX,fbsbx.com, Global
+DOMAIN-SUFFIX,fbworkmail.com, Global
+DOMAIN-SUFFIX,instagram.com, Global
+DOMAIN-SUFFIX,m.me, Global
+DOMAIN-SUFFIX,messenger.com, Global
+DOMAIN-SUFFIX,oculus.com, Global
+DOMAIN-SUFFIX,oculuscdn.com, Global
+DOMAIN-SUFFIX,rocksdb.org, Global
+DOMAIN-SUFFIX,whatsapp.com, Global
+DOMAIN-SUFFIX,whatsapp.net, Global
+DOMAIN-KEYWORD,facebook, Global
 ip-cidr,3.123.36.126/32, Global
 ip-cidr,52.58.209.134/32, Global
 ip-cidr,54.93.124.31/32, Global
@@ -91,8 +91,8 @@ DOMAIN-SUFFIX,googleusercontent.com, Global
 DOMAIN-KEYWORD,www.google., Global
 # Google Voice
 DOMAIN,oauthaccountmanager.googleapis.com, Global
-DOMAIN-suffix,lens.l.google.com, Global
-DOMAIN-suffix,voice.telephony.goog, Global
+DOMAIN-SUFFIX,lens.l.google.com, Global
+DOMAIN-SUFFIX,voice.telephony.goog, Global
 
 DOMAIN,www.googleadservices.com, Global
 DOMAIN,accounts.google.com, Global
