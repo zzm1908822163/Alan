@@ -1,17 +1,17 @@
 USER-AGENT,com.google.ios.youtube*, YouTube
 USER-AGENT,YouTube*, YouTube
-HOST-KEYWORD,youtube, YouTube
-HOST-SUFFIX,youtu.be,YouTube
-HOST-SUFFIX,googlevideo.com,YouTube
-HOST-SUFFIX,ytimg.com, YouTube
-HOST-SUFFIX,ggpht.com, YouTube
-HOST-SUFFIX,gvt2.com, YouTube
-HOST-SUFFIX,app-measurement.com, YouTube
-HOST-SUFFIX,appspot.com,YouTube
-HOST-SUFFIX,blogger.com, YouTube
-HOST-SUFFIX,getoutline.org, YouTube
-HOST-SUFFIX,gvt0.com, YouTube
-HOST-SUFFIX,gvt3.com, YouTube
-HOST-SUFFIX,xn--ngstr-lra8j.com, YouTube
-HOST-KEYWORD,google, YouTube
-HOST-KEYWORD,.blogspot., YouTube
+DOMAIN-KEYWORD,youtube, YouTube
+DOMAIN-SUFFIX,youtu.be,YouTube
+DOMAIN-SUFFIX,googlevideo.com,YouTube
+DOMAIN-SUFFIX,ytimg.com, YouTube
+DOMAIN-SUFFIX,ggpht.com, YouTube
+DOMAIN-SUFFIX,gvt2.com, YouTube
+DOMAIN-SUFFIX,app-measurement.com, YouTube
+DOMAIN-SUFFIX,appspot.com,YouTube
+DOMAIN-SUFFIX,blogger.com, YouTube
+DOMAIN-SUFFIX,getoutline.org, YouTube
+DOMAIN-SUFFIX,gvt0.com, YouTube
+DOMAIN-SUFFIX,gvt3.com, YouTube
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com, YouTube
+DOMAIN-KEYWORD,google, YouTube
+DOMAIN-KEYWORD,.blogspot., YouTube
