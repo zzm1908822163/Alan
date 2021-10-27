@@ -61,12 +61,12 @@ DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-KEYWORD,facebook
-ip-cidr,3.123.36.126/32 ,no-resolve
-ip-cidr,52.58.209.134/32 ,no-resolve
-ip-cidr,54.93.124.31/32 ,no-resolve
-ip-cidr,54.173.34.141/32 ,no-resolve
-ip-cidr,54.235.23.242/32 ,no-resolve
-ip-cidr,169.45.248.118/32 ,no-resolve
+IP-CIDR,3.123.36.126/32 ,no-resolve
+IP-CIDR,52.58.209.134/32 ,no-resolve
+IP-CIDR,54.93.124.31/32 ,no-resolve
+IP-CIDR,54.173.34.141/32 ,no-resolve
+IP-CIDR,54.235.23.242/32 ,no-resolve
+IP-CIDR,169.45.248.118/32 ,no-resolve
 # Github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
@@ -156,12 +156,12 @@ DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
-ip-cidr,91.108.4.0/22 ,no-resolve
-ip-cidr,91.108.8.0/22 ,no-resolve
-ip-cidr,91.108.12.0/22 ,no-resolve
-ip-cidr,91.108.16.0/22 ,no-resolve
-ip-cidr,91.108.56.0/22 ,no-resolve
-ip-cidr,149.154.160.0/20 ,no-resolve
+IP-CIDR,91.108.4.0/22 ,no-resolve
+IP-CIDR,91.108.8.0/22 ,no-resolve
+IP-CIDR,91.108.12.0/22 ,no-resolve
+IP-CIDR,91.108.16.0/22 ,no-resolve
+IP-CIDR,91.108.56.0/22 ,no-resolve
+IP-CIDR,149.154.160.0/20 ,no-resolve
 # TestFlight
 DOMAIN,beta.apple.com
 DOMAIN,testflight.apple.com
