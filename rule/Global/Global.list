@@ -156,15 +156,15 @@ DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
-ip-cidr, 91.108.4.0/22 ,no-resolve
-ip-cidr, 91.108.8.0/22 ,no-resolve
-ip-cidr, 91.108.12.0/22 ,no-resolve
-ip-cidr, 91.108.16.0/22 ,no-resolve
-ip-cidr, 91.108.56.0/22 ,no-resolve
-ip-cidr, 149.154.160.0/20 ,no-resolve
+ip-cidr,91.108.4.0/22 ,no-resolve
+ip-cidr,91.108.8.0/22 ,no-resolve
+ip-cidr,91.108.12.0/22 ,no-resolve
+ip-cidr,91.108.16.0/22 ,no-resolve
+ip-cidr,91.108.56.0/22 ,no-resolve
+ip-cidr,149.154.160.0/20 ,no-resolve
 # TestFlight
-DOMAIN, beta.apple.com
-DOMAIN, testflight.apple.com
+DOMAIN,beta.apple.com
+DOMAIN,testflight.apple.com
 DOMAIN-KEYWORD, testflight
 # Twitch
 DOMAIN-SUFFIX,ext-twitch.tv
@@ -192,8 +192,8 @@ DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,vine.co
-DOMAIN-keyword,twitter
-# 
+DOMAIN-KEYWORD,twitter
+# Wiki
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikidata.org
 DOMAIN-SUFFIX,wikileaks.org
@@ -203,9 +203,8 @@ DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikiquote.org
 DOMAIN-SUFFIX,wikisource.org
 DOMAIN-SUFFIX,wikiversity.org
-DOMAINSUFFIX,wikivoyage.org
+DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wiktionary.org
-
 #  Other
 DOMAIN-SUFFIX,cn.pornhub.com
 DOMAIN-SUFFIX,cn.pornhubpremium.com
