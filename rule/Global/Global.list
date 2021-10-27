@@ -1,239 +1,238 @@
 # jailbreak
-DOMAIN-SUFFIX,akemi.ai,Global
-DOMAIN-SUFFIX,alfhaily.me, Global
-DOMAIN-SUFFIX,bingner.com, Global
-DOMAIN-SUFFIX,canister.me, Global
-DOMAIN-SUFFIX,chariz.com, Global
-DOMAIN-SUFFIX,cokepokes.github.io, Global
-DOMAIN-SUFFIX,crazy90.com, Global
-DOMAIN-SUFFIX,dynastic.co, Global
-DOMAIN-SUFFIX,getzbra.com, Global
-DOMAIN-SUFFIX,hackyouriphone.org, Global
-DOMAIN-SUFFIX,ib-soft.net, Global
-DOMAIN-SUFFIX,iphonecake.com, Global
-DOMAIN-SUFFIX,julioverne.github.io, Global
-DOMAIN-SUFFIX,packix.com, Global
-DOMAIN-SUFFIX,rejail.ru, Global
-DOMAIN-SUFFIX,sparkdev.me, Global
-DOMAIN-SUFFIX,thebigboss.org, Global
-DOMAIN-SUFFIX,theodyssey.dev, Global
-DOMAIN-SUFFIX,translomatic.vercel.app, Global
-DOMAIN-SUFFIX,tigisoftware.com, Global
-DOMAIN-SUFFIX,twickd.com, Global
-DOMAIN-SUFFIX,yourepo.com, Global
-DOMAIN-KEYWORD,cydia, Global
-DOMAIN-KEYWORD,zebra, Global
-DOMAIN-KEYWORD,sileo, Global
+DOMAIN-SUFFIX,akemi.ai
+DOMAIN-SUFFIX,alfhaily.me
+DOMAIN-SUFFIX,bingner.com
+DOMAIN-SUFFIX,canister.me
+DOMAIN-SUFFIX,chariz.com
+DOMAIN-SUFFIX,cokepokes.github.io
+DOMAIN-SUFFIX,crazy90.com
+DOMAIN-SUFFIX,dynastic.co
+DOMAIN-SUFFIX,getzbra.com
+DOMAIN-SUFFIX,hackyouriphone.org
+DOMAIN-SUFFIX,ib-soft.net
+DOMAIN-SUFFIX,iphonecake.com
+DOMAIN-SUFFIX,julioverne.github.io
+DOMAIN-SUFFIX,packix.com
+DOMAIN-SUFFIX,rejail.ru
+DOMAIN-SUFFIX,sparkdev.me
+DOMAIN-SUFFIX,thebigboss.org
+DOMAIN-SUFFIX,theodyssey.dev
+DOMAIN-SUFFIX,translomatic.vercel.app
+DOMAIN-SUFFIX,tigisoftware.com
+DOMAIN-SUFFIX,twickd.com
+DOMAIN-SUFFIX,yourepo.com
+DOMAIN-KEYWORD,cydia
+DOMAIN-KEYWORD,zebra
+DOMAIN-KEYWORD,sileo
 
 # Discord
-DOMAIN-SUFFIX,discord.com, Global
-DOMAIN-SUFFIX,discordapp.com, Global
-DOMAIN-SUFFIX,discordapp.net, Global
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
 
 # (DNS Cache Pollution Protection)
 # > Google
-DOMAIN-SUFFIX,ampproject.org, Global
-DOMAIN-SUFFIX,appspot.com, Global
-DOMAIN-SUFFIX,blogger.com, Global
-DOMAIN-SUFFIX,getoutline.org, Global
-DOMAIN-SUFFIX,gvt0.com, Global
-DOMAIN-SUFFIX,gvt1.com, Global
-DOMAIN-SUFFIX,gvt3.com, Global
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com, Global
-DOMAIN-KEYWORD,google, Global
-DOMAIN-KEYWORD,blogspot, Global
+DOMAIN-SUFFIX,ampproject.org
+DOMAIN-SUFFIX,appspot.com
+DOMAIN-SUFFIX,blogger.com
+DOMAIN-SUFFIX,getoutline.org
+DOMAIN-SUFFIX,gvt0.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,blogspot
 
 # Dropbox
-DOMAIN-SUFFIX,dropbox.com, Global
-DOMAIN-SUFFIX,dropboxapi.com, Global
-DOMAIN-SUFFIX,dropboxusercontent.com, Global
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,dropboxusercontent.com
 
 # Facebook
-DOMAIN-SUFFIX,cdninstagram.com, Global
-DOMAIN-SUFFIX,fb.com, Global
-DOMAIN-SUFFIX,fb.me, Global
-DOMAIN-SUFFIX,fbaddins.com, Global
-DOMAIN-SUFFIX,fbcdn.net, Global
-DOMAIN-SUFFIX,fbsbx.com, Global
-DOMAIN-SUFFIX,fbworkmail.com, Global
-DOMAIN-SUFFIX,instagram.com, Global
-DOMAIN-SUFFIX,m.me, Global
-DOMAIN-SUFFIX,messenger.com, Global
-DOMAIN-SUFFIX,oculus.com, Global
-DOMAIN-SUFFIX,oculuscdn.com, Global
-DOMAIN-SUFFIX,rocksdb.org, Global
-DOMAIN-SUFFIX,whatsapp.com, Global
-DOMAIN-SUFFIX,whatsapp.net, Global
-DOMAIN-KEYWORD,facebook, Global
-ip-cidr,3.123.36.126/32, Global
-ip-cidr,52.58.209.134/32, Global
-ip-cidr,54.93.124.31/32, Global
-ip-cidr,54.173.34.141/32, Global
-ip-cidr,54.235.23.242/32, Global
-ip-cidr,169.45.248.118/32, Global
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbaddins.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,fbworkmail.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,rocksdb.org
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-KEYWORD,facebook
+ip-cidr,3.123.36.126/32
+ip-cidr,52.58.209.134/32
+ip-cidr,54.93.124.31/32
+ip-cidr,54.173.34.141/32
+ip-cidr,54.235.23.242/32
+ip-cidr,169.45.248.118/32
 
 # Github
-DOMAIN-SUFFIX,github.com, Global
-DOMAIN-SUFFIX,github.io, Global
-DOMAIN-SUFFIX,githubusercontent.com, Global
-DOMAIN-KEYWORD,github, Global
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-KEYWORD,github
 
 # Google Gmail
-DOMAIN-KEYWORD,gmail.com, Global
+DOMAIN-KEYWORD,gmail.com
 
 # Google Driver
-DOMAIN-SUFFIX,docs.google.com, Global
-DOMAIN-SUFFIX,drive.google.com, Global
-DOMAIN-SUFFIX,googledrive.com, Global
-DOMAIN-SUFFIX,googleusercontent.com, Global
+DOMAIN-SUFFIX,docs.google.com
+DOMAIN-SUFFIX,drive.google.com
+DOMAIN-SUFFIX,googledrive.com
+DOMAIN-SUFFIX,googleusercontent.com
 
 # Google Search
-DOMAIN-KEYWORD,www.google., Global
+DOMAIN-KEYWORD,www.google.
 # Google Voice
-DOMAIN,oauthaccountmanager.googleapis.com, Global
-DOMAIN-SUFFIX,lens.l.google.com, Global
-DOMAIN-SUFFIX,voice.telephony.goog, Global
+DOMAIN,oauthaccountmanager.googleapis.com
+DOMAIN-SUFFIX,lens.l.google.com
+DOMAIN-SUFFIX,voice.telephony.goog
 
-DOMAIN,www.googleadservices.com, Global
-DOMAIN,accounts.google.com, Global
+DOMAIN,www.googleadservices.com
+DOMAIN,accounts.google.com
 
 # OneDrive
-DOMAIN,api.onedrive.com, Global
-DOMAIN-SUFFIX,onedrive.live.com, Global
-DOMAIN-SUFFIX,files.1drv.com, Global
-DOMAIN-SUFFIX,graph.microsoft.com, Global
-DOMAIN-SUFFIX,microsoftonline.com, Global
-DOMAIN-KEYWORD,msauth.net, Global
-DOMAIN-KEYWORD,microsoft.com, Global
+DOMAIN,api.onedrive.com
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,files.1drv.com
+DOMAIN-SUFFIX,graph.microsoft.com
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-KEYWORD,msauth.net
+DOMAIN-KEYWORD,microsoft.com
 
 # (Region-Restricted Access Denied)
-DOMAIN-SUFFIX,apartmentratings.com, Global
-DOMAIN-SUFFIX,apartments.com, Global
-DOMAIN-SUFFIX,bankmobilevibe.com, Global
-DOMAIN-SUFFIX,bing.com, Global
-DOMAIN-SUFFIX,booktopia.com.au, Global
-DOMAIN-SUFFIX,cccat.io, Global
-DOMAIN-SUFFIX,centauro.com.br, Global
-DOMAIN-SUFFIX,clearsurance.com, Global
-DOMAIN-SUFFIX,costco.com, Global
-DOMAIN-SUFFIX,crackle.com, Global
-DOMAIN-SUFFIX,depositphotos.cn, Global
-DOMAIN-SUFFIX,dish.com, Global
-DOMAIN-SUFFIX,dmm.co.jp, Global
-DOMAIN-SUFFIX,dmm.com, Global
-DOMAIN-SUFFIX,dnvod.tv, Global
-DOMAIN-SUFFIX,esurance.com, Global
-DOMAIN-SUFFIX,extmatrix.com, Global
-DOMAIN-SUFFIX,fastpic.ru, Global
-DOMAIN-SUFFIX,flipboard.com, Global
-DOMAIN-SUFFIX,fnac.be, Global
-DOMAIN-SUFFIX,fnac.com, Global
-DOMAIN-SUFFIX,funkyimg.com, Global
-DOMAIN-SUFFIX,fxnetworks.com, Global
-DOMAIN-SUFFIX,gettyimages.com, Global
-DOMAIN-SUFFIX,go.com, Global
-DOMAIN-SUFFIX,here.com, Global
-DOMAIN-SUFFIX,jcpenney.com, Global
-DOMAIN-SUFFIX,jiehua.tv, Global
-DOMAIN-SUFFIX,mailfence.com, Global
-DOMAIN-SUFFIX,nationwide.com, Global
-DOMAIN-SUFFIX,nbc.com, Global
-DOMAIN-SUFFIX,nexon.com, Global
-DOMAIN-SUFFIX,nordstrom.com, Global
-DOMAIN-SUFFIX,nordstromimage.com, Global
-DOMAIN-SUFFIX,nordstromrack.com, Global
-DOMAIN-SUFFIX,superpages.com, Global
-DOMAIN-SUFFIX,target.com, Global
-DOMAIN-SUFFIX,thinkgeek.com, Global
-DOMAIN-SUFFIX,tracfone.com, Global
-DOMAIN-SUFFIX,unity3d.com, Global
-DOMAIN-SUFFIX,uploader.jp, Global
-DOMAIN-SUFFIX,vevo.com, Global
-DOMAIN-SUFFIX,viu.tv, Global
-DOMAIN-SUFFIX,vk.com, Global
-DOMAIN-SUFFIX,vsco.co, Global
-DOMAIN-SUFFIX,xfinity.com, Global
-DOMAIN-SUFFIX,zattoo.com, Global
-user-agent,Roam*, Global
+DOMAIN-SUFFIX,apartmentratings.com
+DOMAIN-SUFFIX,apartments.com
+DOMAIN-SUFFIX,bankmobilevibe.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,booktopia.com.au
+DOMAIN-SUFFIX,cccat.io
+DOMAIN-SUFFIX,centauro.com.br
+DOMAIN-SUFFIX,clearsurance.com
+DOMAIN-SUFFIX,costco.com
+DOMAIN-SUFFIX,crackle.com
+DOMAIN-SUFFIX,depositphotos.cn
+DOMAIN-SUFFIX,dish.com
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,dnvod.tv
+DOMAIN-SUFFIX,esurance.com
+DOMAIN-SUFFIX,extmatrix.com
+DOMAIN-SUFFIX,fastpic.ru
+DOMAIN-SUFFIX,flipboard.com
+DOMAIN-SUFFIX,fnac.be
+DOMAIN-SUFFIX,fnac.com
+DOMAIN-SUFFIX,funkyimg.com
+DOMAIN-SUFFIX,fxnetworks.com
+DOMAIN-SUFFIX,gettyimages.com
+DOMAIN-SUFFIX,go.com
+DOMAIN-SUFFIX,here.com
+DOMAIN-SUFFIX,jcpenney.com
+DOMAIN-SUFFIX,jiehua.tv
+DOMAIN-SUFFIX,mailfence.com
+DOMAIN-SUFFIX,nationwide.com
+DOMAIN-SUFFIX,nbc.com
+DOMAIN-SUFFIX,nexon.com
+DOMAIN-SUFFIX,nordstrom.com
+DOMAIN-SUFFIX,nordstromimage.com
+DOMAIN-SUFFIX,nordstromrack.com
+DOMAIN-SUFFIX,superpages.com
+DOMAIN-SUFFIX,target.com
+DOMAIN-SUFFIX,thinkgeek.com
+DOMAIN-SUFFIX,tracfone.com
+DOMAIN-SUFFIX,unity3d.com
+DOMAIN-SUFFIX,uploader.jp
+DOMAIN-SUFFIX,vevo.com
+DOMAIN-SUFFIX,viu.tv
+DOMAIN-SUFFIX,vk.com
+DOMAIN-SUFFIX,vsco.co
+DOMAIN-SUFFIX,xfinity.com
+DOMAIN-SUFFIX,zattoo.com
+user-agent,Roam*
 
 # Spotify
-USER-AGENT,Spotify*, Global
-DOMAIN-SUFFIX,pscdn.co, Global
-DOMAIN-SUFFIX,scdn.co, Global
-DOMAIN-SUFFIX,spotify.com, Global
-DOMAIN-SUFFIX,spoti.fi, Global
-DOMAIN-KEYWORD,spotify.com, Global
-DOMAIN-KEYWORD,-spotify-com, Global
+USER-AGENT,Spotify*
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spoti.fi
+DOMAIN-KEYWORD,spotify.com
+DOMAIN-KEYWORD,-spotify-com
 
 # Telegram
 
-DOMAIN-SUFFIX,t.me, Global
-DOMAIN-SUFFIX,tdesktop.com, Global
-DOMAIN-SUFFIX,telegra.ph, Global
-DOMAIN-SUFFIX,telegram.me, Global
-DOMAIN-SUFFIX,telegram.org, Global
-ip-cidr, 91.108.4.0/22, Global
-ip-cidr, 91.108.8.0/22, Global
-ip-cidr, 91.108.12.0/22, Global
-ip-cidr, 91.108.16.0/22, Global
-ip-cidr, 91.108.56.0/22, Global
-ip-cidr, 149.154.160.0/20, Global
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+ip-cidr, 91.108.4.0/22
+ip-cidr, 91.108.8.0/22
+ip-cidr, 91.108.12.0/22
+ip-cidr, 91.108.16.0/22
+ip-cidr, 91.108.56.0/22
+ip-cidr, 149.154.160.0/20
 
 # TestFlight
-DOMAIN, beta.apple.com, Global
-DOMAIN, testflight.apple.com, Global
-DOMAIN-KEYWORD, testflight, Global
+DOMAIN, beta.apple.com
+DOMAIN, testflight.apple.com
+DOMAIN-KEYWORD, testflight
 
 # Twitch
-DOMAIN-SUFFIX,ext-twitch.tv, Global
-DOMAIN-SUFFIX,jtvnw.net, Global
-DOMAIN-SUFFIX,ttvnw.net, Global
-DOMAIN-SUFFIX,twitch.tv, Global
-DOMAIN-SUFFIX,twitchcdn.net, Global
-DOMAIN-SUFFIX,twitchsvc.net, Global
-IP-CIDR,103.53.48.0/23, Global
-IP-CIDR,185.42.204.0/22, Global
-IP-CIDR,192.108.239.0/24, Global
-IP-CIDR,192.16.64.0/21, Global
-IP-CIDR,199.9.248.0/21, Global
-IP-CIDR,23.160.0.0/24, Global
-IP-CIDR,45.113.128.0/22, Global
-IP-CIDR,52.223.192.0/20, Global
-IP-CIDR,52.223.208.0/21, Global
-IP-CIDR,52.223.224.0/19, Global
-IP-CIDR,99.181.64.0/18, Global
+DOMAIN-SUFFIX,ext-twitch.tv
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,twitchcdn.net
+DOMAIN-SUFFIX,twitchsvc.net
+IP-CIDR,103.53.48.0/23
+IP-CIDR,185.42.204.0/22
+IP-CIDR,192.108.239.0/24
+IP-CIDR,192.16.64.0/21
+IP-CIDR,199.9.248.0/21
+IP-CIDR,23.160.0.0/24
+IP-CIDR,45.113.128.0/22
+IP-CIDR,52.223.192.0/20
+IP-CIDR,52.223.208.0/21
+IP-CIDR,52.223.224.0/19
+IP-CIDR,99.181.64.0/18
 
 # Twitter
 
-DOMAIN-SUFFIX,pscp.tv, Global
-DOMAIN-SUFFIX,periscope.tv, Global
-DOMAIN-SUFFIX,t.co, Global
-DOMAIN-SUFFIX,twimg.co, Global
-DOMAIN-SUFFIX,twimg.com, Global
-DOMAIN-SUFFIX,twitpic.com, Global
-DOMAIN-SUFFIX,vine.co,Global
-DOMAIN-keyword,twitter,Global
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,vine.co
+DOMAIN-keyword,twitter
 
-# Wikipedia
-DOMAIN-SUFFIX,mediawiki.org, Global
-DOMAIN-SUFFIX,wikibooks.org, Global
-DOMAIN-SUFFIX,wikidata.org, Global
-DOMAIN-SUFFIX,wikileaks.org, Global
-DOMAIN-SUFFIX,wikimedia.org, Global
-DOMAIN-SUFFIX,wikinews.org, Global
-DOMAIN-SUFFIX,wikipedia.org, Global
-DOMAIN-SUFFIX,wikiquote.org, Global
-DOMAIN-SUFFIX,wikisource.org, Global
-DOMAIN-SUFFIX,wikiversity.org, Global
-DOMAINSUFFIX,wikivoyage.org, Global
-DOMAIN-SUFFIX,wiktionary.org, Global
+# 
+DOMAIN-SUFFIX,wikibooks.org
+DOMAIN-SUFFIX,wikidata.org
+DOMAIN-SUFFIX,wikileaks.org
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikinews.org
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikiquote.org
+DOMAIN-SUFFIX,wikisource.org
+DOMAIN-SUFFIX,wikiversity.org
+DOMAINSUFFIX,wikivoyage.org
+DOMAIN-SUFFIX,wiktionary.org
 
 #  Other
-DOMAIN-SUFFIX,cn.pornhub.com, Global
-DOMAIN-SUFFIX,cn.pornhubpremium.com, Global
-DOMAIN-SUFFIX,xvideos.com, Global
-DOMAIN-SUFFIX,xhamster.com, Global
-DOMAIN-SUFFIX,zh.cam4.com, Global
-DOMAIN-SUFFIX,chaturbate.com, Global
-DOMAIN-SUFFIX,91porn.com, Global
-DOMAIN-SUFFIX,1024lsj.cc, Global
+DOMAIN-SUFFIX,cn.pornhub.com
+DOMAIN-SUFFIX,cn.pornhubpremium.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,xhamster.com
+DOMAIN-SUFFIX,zh.cam4.com
+DOMAIN-SUFFIX,chaturbate.com
+DOMAIN-SUFFIX,91porn.com
+DOMAIN-SUFFIX,1024lsj.cc
