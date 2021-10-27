@@ -24,12 +24,10 @@ DOMAIN-SUFFIX,yourepo.com
 DOMAIN-KEYWORD,cydia
 DOMAIN-KEYWORD,zebra
 DOMAIN-KEYWORD,sileo
-
 # Discord
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
-
 # (DNS Cache Pollution Protection)
 # > Google
 DOMAIN-SUFFIX,ampproject.org
@@ -42,12 +40,10 @@ DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,blogspot
-
 # Dropbox
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropboxusercontent.com
-
 # Facebook
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,fb.com
@@ -71,32 +67,26 @@ ip-cidr,54.93.124.31/32 ,no-resolve
 ip-cidr,54.173.34.141/32 ,no-resolve
 ip-cidr,54.235.23.242/32 ,no-resolve
 ip-cidr,169.45.248.118/32 ,no-resolve
-
 # Github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-KEYWORD,github
-
 # Google Gmail
 DOMAIN-KEYWORD,gmail.com
-
 # Google Driver
 DOMAIN-SUFFIX,docs.google.com
 DOMAIN-SUFFIX,drive.google.com
 DOMAIN-SUFFIX,googledrive.com
 DOMAIN-SUFFIX,googleusercontent.com
-
 # Google Search
 DOMAIN-KEYWORD,www.google.
 # Google Voice
 DOMAIN,oauthaccountmanager.googleapis.com
 DOMAIN-SUFFIX,lens.l.google.com
 DOMAIN-SUFFIX,voice.telephony.goog
-
 DOMAIN,www.googleadservices.com
 DOMAIN,accounts.google.com
-
 # OneDrive
 DOMAIN,api.onedrive.com
 DOMAIN-SUFFIX,onedrive.live.com
@@ -105,7 +95,6 @@ DOMAIN-SUFFIX,graph.microsoft.com
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-KEYWORD,msauth.net
 DOMAIN-KEYWORD,microsoft.com
-
 # (Region-Restricted Access Denied)
 DOMAIN-SUFFIX,apartmentratings.com
 DOMAIN-SUFFIX,apartments.com
@@ -154,19 +143,14 @@ DOMAIN-SUFFIX,vk.com
 DOMAIN-SUFFIX,vsco.co
 DOMAIN-SUFFIX,xfinity.com
 DOMAIN-SUFFIX,zattoo.com
-user-agent,Roam*
-
 # Spotify
-USER-AGENT,Spotify*
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-KEYWORD,spotify.com
 DOMAIN-KEYWORD,-spotify-com
-
 # Telegram
-
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegra.ph
@@ -178,12 +162,10 @@ ip-cidr, 91.108.12.0/22 ,no-resolve
 ip-cidr, 91.108.16.0/22 ,no-resolve
 ip-cidr, 91.108.56.0/22 ,no-resolve
 ip-cidr, 149.154.160.0/20 ,no-resolve
-
 # TestFlight
 DOMAIN, beta.apple.com
 DOMAIN, testflight.apple.com
 DOMAIN-KEYWORD, testflight
-
 # Twitch
 DOMAIN-SUFFIX,ext-twitch.tv
 DOMAIN-SUFFIX,jtvnw.net
@@ -202,9 +184,7 @@ IP-CIDR,52.223.192.0/20 ,no-resolve
 IP-CIDR,52.223.208.0/21 ,no-resolve
 IP-CIDR,52.223.224.0/19 ,no-resolve
 IP-CIDR,99.181.64.0/18 ,no-resolve
-
 # Twitter
-
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,t.co
@@ -213,7 +193,6 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-keyword,twitter
-
 # 
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikidata.org
