@@ -1,4 +1,4 @@
 # > PayPal
-HOST-SUFFIX, paypal.com, PayPal
-HOST-SUFFIX, paypal.me, PayPal
-HOST-KEYWORD,PayPal,PayPal
+DOMAIN-SUFFIX, paypal.com, PayPal
+DOMAIN-SUFFIX, paypal.me, PayPal
+DOMAIN-KEYWORD,PayPal,PayPal
