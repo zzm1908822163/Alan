@@ -24,10 +24,6 @@ DOMAIN-SUFFIX,yourepo.com
 DOMAIN-KEYWORD,cydia
 DOMAIN-KEYWORD,zebra
 DOMAIN-KEYWORD,sileo
-# Discord
-DOMAIN-SUFFIX,discord.com
-DOMAIN-SUFFIX,discordapp.com
-DOMAIN-SUFFIX,discordapp.net
 # (DNS Cache Pollution Protection)
 # > Google
 DOMAIN-SUFFIX,ampproject.org
@@ -44,29 +40,6 @@ DOMAIN-KEYWORD,blogspot
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropboxusercontent.com
-# Facebook
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,fb.com
-DOMAIN-SUFFIX,fb.me
-DOMAIN-SUFFIX,fbaddins.com
-DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,fbsbx.com
-DOMAIN-SUFFIX,fbworkmail.com
-DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,m.me
-DOMAIN-SUFFIX,messenger.com
-DOMAIN-SUFFIX,oculus.com
-DOMAIN-SUFFIX,oculuscdn.com
-DOMAIN-SUFFIX,rocksdb.org
-DOMAIN-SUFFIX,whatsapp.com
-DOMAIN-SUFFIX,whatsapp.net
-DOMAIN-KEYWORD,facebook
-IP-CIDR,3.123.36.126/32 ,no-resolve
-IP-CIDR,52.58.209.134/32 ,no-resolve
-IP-CIDR,54.93.124.31/32 ,no-resolve
-IP-CIDR,54.173.34.141/32 ,no-resolve
-IP-CIDR,54.235.23.242/32 ,no-resolve
-IP-CIDR,169.45.248.118/32 ,no-resolve
 # Github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
@@ -154,15 +127,6 @@ DOMAIN-KEYWORD,-spotify-com
 # TestFlight
 DOMAIN,beta.apple.com
 DOMAIN,testflight.apple.com
-# Twitter
-DOMAIN-SUFFIX,pscp.tv
-DOMAIN-SUFFIX,periscope.tv
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,vine.co
-DOMAIN-KEYWORD,twitter
 # Wiki
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikidata.org
