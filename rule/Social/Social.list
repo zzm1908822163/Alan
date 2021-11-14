@@ -1,30 +1,55 @@
+# Discord
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
 
-#  Facebook
-host-suffix,fb.com,Facebook
-host-suffix,fb.me,Facebook
-host-suffix,fbcdn.net,Facebook
-host-suffix,fbworkmail.com,Facebook
-host-suffix,messenger.com,Facebook
-host-keyword,facebook,Facebook
-ip-cidr,3.123.36.126/32,Facebook
-ip-cidr,52.58.209.134/32,Facebook
-ip-cidr,54.93.124.31/32,Facebook
-ip-cidr,54.173.34.141/32,Facebook
-ip-cidr,54.235.23.242/32,Facebook
-ip-cidr,169.45.248.118/32,Facebook
-# Telegram
-HOST-SUFFIX,t.me,Telegram
-HOST-SUFFIX,telegram.me,Telegram
-HOST-SUFFIX,telegram.org,Telegram
-HOST-KEYWORD,telegram,Telegram
-IP-CIDR,91.108.0.0/12,Telegram
-IP-CIDR,149.154.0.0/12,Telegram
+# Facebook
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbaddins.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,fbworkmail.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,rocksdb.org
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-KEYWORD,facebook
+IP-CIDR,3.123.36.126/32 ,no-resolve
+IP-CIDR,52.58.209.134/32 ,no-resolve
+IP-CIDR,54.93.124.31/32 ,no-resolve
+IP-CIDR,54.173.34.141/32 ,no-resolve
+IP-CIDR,54.235.23.242/32 ,no-resolve
+IP-CIDR,169.45.248.118/32 ,no-resolve
+
+	# Telegram
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,telesco.pe
+IP-CIDR,91.108.4.0/22,no-resolve
+IP-CIDR,91.108.8.0/22,no-resolve
+IP-CIDR,91.108.12.0/22,no-resolve
+IP-CIDR,91.108.16.0/22,no-resolve
+IP-CIDR,91.108.20.0/22,no-resolve
+IP-CIDR,91.108.56.0/22,no-resolve
+IP-CIDR,91.105.192.0/23,no-resolve
+IP-CIDR,149.154.160.0/20,no-resolve
+IP-CIDR,185.76.151.0/24,no-resolve
+
 # Twitter
-HOST-SUFFIX,pscp.tv,Twitter
-HOST-SUFFIX,periscope.tv,Twitter
-HOST-SUFFIX,t.co,Twitter
-HOST-SUFFIX,twimg.co,Twitter
-HOST-SUFFIX,twimg.com,Twitter
-HOST-SUFFIX,twitpic.com,Twitter
-HOST-SUFFIX,vine.co,Twitter
-HOST-KEYWORD,twitter,Twitter
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,vine.co
+DOMAIN-KEYWORD,twitter
