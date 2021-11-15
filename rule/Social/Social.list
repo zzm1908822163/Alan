@@ -27,7 +27,7 @@ IP-CIDR,54.173.34.141/32 ,no-resolve
 IP-CIDR,54.235.23.242/32 ,no-resolve
 IP-CIDR,169.45.248.118/32 ,no-resolve
 
-	# Telegram
+# Telegram
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegra.ph
