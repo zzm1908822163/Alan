@@ -1,16 +1,8 @@
-USER-AGENT,com.google.ios.youtube*, YouTube
-USER-AGENT,YouTube*, YouTube
-DOMAIN-KEYWORD,youtube, YouTube
-DOMAIN-SUFFIX,youtu.be,YouTube
-DOMAIN-SUFFIX,googlevideo.com,YouTube
-DOMAIN-SUFFIX,ytimg.com, YouTube
-DOMAIN-SUFFIX,ggpht.com, YouTube
-DOMAIN-SUFFIX,gvt2.com, YouTube
-DOMAIN-SUFFIX,appspot.com,YouTube
-DOMAIN-SUFFIX,blogger.com, YouTube
-DOMAIN-SUFFIX,getoutline.org, YouTube
-DOMAIN-SUFFIX,gvt0.com, YouTube
-DOMAIN-SUFFIX,gvt3.com, YouTube
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com, YouTube
-DOMAIN-KEYWORD,google, YouTube
-DOMAIN-KEYWORD,.blogspot., YouTube
+# > YouTube
+USER-AGENT,com.google.ios.youtube*
+USER-AGENT,YouTube*
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN,youtubei.googleapis.com
+DOMAIN,yt3.ggpht.com
