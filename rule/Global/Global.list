@@ -68,6 +68,11 @@ DOMAIN-SUFFIX,graph.microsoft.com
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-KEYWORD,msauth.net
 DOMAIN-KEYWORD,microsoft.com
+# > Pornhub
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhubpremium.com
 # (Region-Restricted Access Denied)
 DOMAIN-SUFFIX,apartmentratings.com
 DOMAIN-SUFFIX,apartments.com
@@ -127,6 +132,11 @@ DOMAIN-KEYWORD,-spotify-com
 # TestFlight
 DOMAIN,beta.apple.com
 DOMAIN,testflight.apple.com
+# > Twitch
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,twitchcdn.net
 # Wiki
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikidata.org
